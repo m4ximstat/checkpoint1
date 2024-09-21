@@ -48,7 +48,7 @@ a {
 }
 .hero-area{
     height: 500px;
-    background-image: url('../resources/hero__background.png');
+    background-image: url('/resources/hero__background.png');
     background-repeat: no-repeat;
     background-size: contain;
     border: 1px solid #f5f5f5;
